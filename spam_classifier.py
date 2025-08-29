@@ -1,6 +1,6 @@
 # spam_classifier.py
 # Naive Bayes ML model for Spam Email Classification
-# Author: Your Name
+# Author: VarshithaMandapati
 
 import pandas as pd
 from sklearn.model_selection import train_test_split

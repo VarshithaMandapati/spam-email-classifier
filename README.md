@@ -22,12 +22,6 @@ This project demonstrates a **Naive Bayes classifier** for detecting spam messag
 
 python spam_classifier.py
 
-### C
-
-gcc spam_display.c -o spam_display
-./spam_display
-
-
 ## Sample Output
 
 === Spam Email Classification Result ===

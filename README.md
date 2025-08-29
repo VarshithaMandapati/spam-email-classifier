@@ -19,18 +19,18 @@ This project demonstrates a **Naive Bayes classifier** for detecting spam messag
 
 ## How to Run
 ### Python
-```bash
+
 python spam_classifier.py
-```
+
 ### C
-```bash
+
 gcc spam_display.c -o spam_display
 ./spam_display
-```
+
 
 ## Sample Output
-```
+
 === Spam Email Classification Result ===
 Model Accuracy: 0.9850
 Sample Message Prediction: spam
-```
+
